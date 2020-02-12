@@ -10,9 +10,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 Term: Spring 2020
 
 + Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ This project is conducted by [Jiayun Ni(UNI:jn2722)]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Music is everywhere in our daily life. People wearing headsets walking on the road is most likely to be listening to music. Background music would always pump up in movies, seires and other kinds of videos, also in large markets or shopping malls. The rhythms of music songs have the power to change the feelings of people, including palliating the mood of people or letting people be more joyful. But what are the singers talking about in the songs? In this report, the words in the songs of rock music and pop music are going to be analyzed to find out if there is any difference among them.
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
